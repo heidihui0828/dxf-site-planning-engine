@@ -6,9 +6,9 @@ name: examples
 ---  
   项目:
   
-  名称: "合成场地演示"
+  名称: 
   
-  英文名称": "SYNTHETIC DEMO
+  英文名称: 
   
   厘米:
   
