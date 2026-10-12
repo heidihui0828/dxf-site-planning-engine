@@ -1,12 +1,15 @@
 [demo_site_model.json](https://github.com/user-attachments/files/33330004/demo_site_model.json)
 
-{
-  "项目": {
-    "名称": "合成场地演示",
-    "英文名称": "SYNTHETIC DEMO",
-    "厘米": null,
-    "坐标系标识": "本地 / 米",
-    "正式面积": 4800,
+---
+name: 
+
+---  
+  项目:
+  名称: "合成场地演示",
+  英文名称": "SYNTHETIC DEMO",
+  厘米: null,
+  坐标系标识": "本地 / 米",
+  正式面积": 4800,
     "说明": "纯合成几何 · 不用于真实项目"
   },
   "来源": {
