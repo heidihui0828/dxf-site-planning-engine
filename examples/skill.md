@@ -11,8 +11,6 @@ description: >
 ---
 ## Purpose
 
-管理 DXF Site Planning Engine 的示例项目，用于展示标准工作流程、验证功能和提供开发参考。
-
 ## Responsibilities
 
 - 提供标准 DXF 示例数据
