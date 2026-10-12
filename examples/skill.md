@@ -1,12 +1,14 @@
 [demo_site_model.json](https://github.com/user-attachments/files/33330004/demo_site_model.json)
 
 ---
-name: examples
+name: examples-assistant
+version: 0.1
 
-description: 管理 DXF Site Planning Engine 示例文件，用于展示标准 DXF 工作流程、功能验证和开发测试参考。
+description: >
+  
+  管理 DXF Site Planning Engine 的示例项目，用于展示标准工作流程、验证功能和提供开发参考。
 
 ---
-
 ## Purpose
 
 管理 DXF Site Planning Engine 的示例项目，用于展示标准工作流程、验证功能和提供开发参考。
