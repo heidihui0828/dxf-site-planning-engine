@@ -3,8 +3,6 @@
 ---
 name: 
 description:
-
-管理 DXF Site Planning Engine 示例文件，用于展示标准 DXF 工作流程、功能验证和开发测试参考。
 ---
 
 ## Purpose
