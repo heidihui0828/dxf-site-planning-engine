@@ -10,4 +10,4 @@ name: agents
   4.先核对当前底图版本与单位；如有项目卡则一并读取。"
 ---
 policy:
-  allow_implicit_invocation: true
+ 
