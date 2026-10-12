@@ -1,12 +1,12 @@
-[01_图层解码与坐标系.md](https://github.com/user-attachments/files/33328832/01_.md)
+[01_图层解码与坐标系.md
 # 01 · 图层解码与坐标系
-[08_底图冻结与几何保真.md](https://github.com/user-attachments/files/33328858/08_.md)
-[07_合成示例.md](https://github.com/user-attachments/files/33328857/07_.md)
-[06_踩坑清单.md](https://github.com/user-attachments/files/33328853/06_.md)
-[05_城市更新模块.md](https://github.com/user-attachments/files/33328850/05_.md)
-[04_交付设计院规范.md](https://github.com/user-attachments/files/33328848/04_.md)
-[03_出图规格.md](https://github.com/user-attachments/files/33328844/03_.md)
-[02_site_model规范.md](https://github.com/user-attachments/files/33328841/02_site_model.md)
+[08_底图冻结与几何保真.md
+[07_合成示例.md
+[06_踩坑清单.md
+[05_城市更新模块.md
+[04_交付设计院规范.md
+[03_出图规格.md
+[02_site_model规范.md
 
 ## 1. 国内测绘 DXF 的常见图层（南方 CASS / GB/T 20257 地形图图式）
 
